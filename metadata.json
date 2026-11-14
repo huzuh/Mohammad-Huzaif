@@ -1,0 +1,6 @@
+{
+  "name": "Plan My Trip India",
+  "description": "AI-powered Indian travel discovery and trip planning platform covering all 28 states and 8 union territories, interactive maps, budget calculator, and personalized itineraries.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

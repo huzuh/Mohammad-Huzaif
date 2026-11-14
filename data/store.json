@@ -1,0 +1,348 @@
+{
+  "users": [
+    {
+      "id": "user-demo-aarav",
+      "name": "Aarav Sharma",
+      "email": "traveler@planmytripindia.in",
+      "homeCity": "Bengaluru",
+      "preferredStyle": "Historical",
+      "createdAt": "2026-01-15T09:00:00.000Z",
+      "passwordHash": "077b11dfe8cc097b25322a46d439edd4:1591776c87fe28f82d9fe55da12459d6631636e3f15d81ce2943bb88ffec1db8111affded0ff9faa546432c89f68aa832d4ef142e03a80ae58272c46d8b3dc4d",
+      "savedDestinations": [
+        "jaipur-amber-fort",
+        "alleppey-backwaters",
+        "pangong-tso-lake"
+      ],
+      "favoritePlaces": [
+        "hampi-ruins",
+        "cherrapunji-root-bridges"
+      ],
+      "savedItineraries": [
+        {
+          "id": "itinerary-1794663043034",
+          "title": "3-Day Jaipur — Amber Fort & Pink City Standard Journey",
+          "input": {
+            "startingLocation": "Mumbai",
+            "destinationName": "Jaipur — Amber Fort & Pink City",
+            "destinationSlug": "jaipur-amber-fort",
+            "startDate": "2026-12-10",
+            "endDate": "2026-12-12",
+            "travelers": 2,
+            "days": 3,
+            "preferences": [
+              "Historical",
+              "Food and Culture"
+            ],
+            "budgetCategory": "Standard"
+          },
+          "summary": "A curated 3-day standard itinerary from Mumbai to Jaipur — Amber Fort & Pink City for 2 travelers, focused on Historical, Food and Culture.",
+          "bestSeasonNote": "October to March",
+          "days": [
+            {
+              "day": 1,
+              "title": "Arrival in Jaipur — Amber Fort & Pink City & First Impressions",
+              "activities": [
+                {
+                  "id": "d1-1",
+                  "timeOfDay": "Morning",
+                  "title": "Arrival from Mumbai & Standard Check-in",
+                  "description": "Arrive in Jaipur — Amber Fort & Pink City, transfer to your standard stay, and freshen up for an unhurried afternoon."
+                },
+                {
+                  "id": "d1-2",
+                  "timeOfDay": "Afternoon",
+                  "title": "Visit Amber Fort & Sheesh Mahal",
+                  "description": "Begin exploring Jaipur — Amber Fort & Pink City with its signature highlight (Amber Fort & Sheesh Mahal) tailored for Historical, Food and Culture."
+                },
+                {
+                  "id": "d1-3",
+                  "timeOfDay": "Evening",
+                  "title": "Welcome Regional Dinner (Dal Baati Churma)",
+                  "description": "Evening orientation stroll and dinner featuring authentic Dal Baati Churma and Laal Maas."
+                },
+                {
+                  "id": "custom-1794663043354",
+                  "timeOfDay": "Afternoon",
+                  "title": "Golden Hour at Nahargarh",
+                  "description": "Panoramic views over Jaipur Pink City"
+                }
+              ]
+            },
+            {
+              "day": 2,
+              "title": "Hawa Mahal & Local Experiences",
+              "activities": [
+                {
+                  "id": "d2-1",
+                  "timeOfDay": "Morning",
+                  "title": "Explore Hawa Mahal",
+                  "description": "Beat midday crowds with an early start at Hawa Mahal."
+                },
+                {
+                  "id": "d2-2",
+                  "timeOfDay": "Afternoon",
+                  "title": "Watch sunrise illuminate Amber Fort over Maota Lake",
+                  "description": "Focused historical, food and culture experience plus excursion toward Ajmer & Pushkar."
+                },
+                {
+                  "id": "d2-3",
+                  "timeOfDay": "Evening",
+                  "title": "Sunset Viewpoint & Ghewar",
+                  "description": "Unwind at sunset and sample evening regional specialties in town."
+                }
+              ]
+            },
+            {
+              "day": 3,
+              "title": "Artisan Markets & Return to Mumbai",
+              "activities": [
+                {
+                  "id": "d3-1",
+                  "timeOfDay": "Morning",
+                  "title": "Morning Visit to Ajmer & Pushkar",
+                  "description": "Catch tranquil early-morning light around Ajmer & Pushkar before checking out."
+                },
+                {
+                  "id": "d3-2",
+                  "timeOfDay": "Afternoon",
+                  "title": "Local Crafts Shopping & Farewell Lunch",
+                  "description": "Pick up regional handicrafts and enjoy a farewell meal (Laal Maas)."
+                },
+                {
+                  "id": "d3-3",
+                  "timeOfDay": "Evening",
+                  "title": "Departure Back to Mumbai",
+                  "description": "Transfer to station or airport for your onward journey home to Mumbai."
+                }
+              ]
+            }
+          ],
+          "generatedBy": "planner",
+          "createdAt": "2026-11-14T13:30:43.034Z"
+        },
+        {
+          "id": "itinerary-1794663013152",
+          "title": "3-Day Jaipur — Amber Fort & Pink City Standard Journey",
+          "input": {
+            "startingLocation": "Mumbai",
+            "destinationName": "Jaipur — Amber Fort & Pink City",
+            "destinationSlug": "jaipur-amber-fort",
+            "startDate": "2026-12-10",
+            "endDate": "2026-12-12",
+            "travelers": 2,
+            "days": 3,
+            "preferences": [
+              "Historical",
+              "Food and Culture"
+            ],
+            "budgetCategory": "Standard"
+          },
+          "summary": "A curated 3-day standard itinerary from Mumbai to Jaipur — Amber Fort & Pink City for 2 travelers, focused on Historical, Food and Culture.",
+          "bestSeasonNote": "October to March",
+          "days": [
+            {
+              "day": 1,
+              "title": "Arrival in Jaipur — Amber Fort & Pink City & First Impressions",
+              "activities": [
+                {
+                  "id": "d1-1",
+                  "timeOfDay": "Morning",
+                  "title": "Arrival from Mumbai & Standard Check-in",
+                  "description": "Arrive in Jaipur — Amber Fort & Pink City, transfer to your standard stay, and freshen up for an unhurried afternoon."
+                },
+                {
+                  "id": "d1-2",
+                  "timeOfDay": "Afternoon",
+                  "title": "Visit Amber Fort & Sheesh Mahal",
+                  "description": "Begin exploring Jaipur — Amber Fort & Pink City with its signature highlight (Amber Fort & Sheesh Mahal) tailored for Historical, Food and Culture."
+                },
+                {
+                  "id": "d1-3",
+                  "timeOfDay": "Evening",
+                  "title": "Welcome Regional Dinner (Dal Baati Churma)",
+                  "description": "Evening orientation stroll and dinner featuring authentic Dal Baati Churma and Laal Maas."
+                },
+                {
+                  "id": "custom-1794663013916",
+                  "timeOfDay": "Afternoon",
+                  "title": "Golden Hour at Nahargarh",
+                  "description": "Panoramic views over Jaipur Pink City"
+                }
+              ]
+            },
+            {
+              "day": 2,
+              "title": "Hawa Mahal & Local Experiences",
+              "activities": [
+                {
+                  "id": "d2-1",
+                  "timeOfDay": "Morning",
+                  "title": "Explore Hawa Mahal",
+                  "description": "Beat midday crowds with an early start at Hawa Mahal."
+                },
+                {
+                  "id": "d2-2",
+                  "timeOfDay": "Afternoon",
+                  "title": "Watch sunrise illuminate Amber Fort over Maota Lake",
+                  "description": "Focused historical, food and culture experience plus excursion toward Ajmer & Pushkar."
+                },
+                {
+                  "id": "d2-3",
+                  "timeOfDay": "Evening",
+                  "title": "Sunset Viewpoint & Ghewar",
+                  "description": "Unwind at sunset and sample evening regional specialties in town."
+                }
+              ]
+            },
+            {
+              "day": 3,
+              "title": "Artisan Markets & Return to Mumbai",
+              "activities": [
+                {
+                  "id": "d3-1",
+                  "timeOfDay": "Morning",
+                  "title": "Morning Visit to Ajmer & Pushkar",
+                  "description": "Catch tranquil early-morning light around Ajmer & Pushkar before checking out."
+                },
+                {
+                  "id": "d3-2",
+                  "timeOfDay": "Afternoon",
+                  "title": "Local Crafts Shopping & Farewell Lunch",
+                  "description": "Pick up regional handicrafts and enjoy a farewell meal (Laal Maas)."
+                },
+                {
+                  "id": "d3-3",
+                  "timeOfDay": "Evening",
+                  "title": "Departure Back to Mumbai",
+                  "description": "Transfer to station or airport for your onward journey home to Mumbai."
+                }
+              ]
+            }
+          ],
+          "generatedBy": "planner",
+          "createdAt": "2026-11-14T13:30:13.152Z"
+        },
+        {
+          "id": "itinerary-seed-jaipur",
+          "title": "3-Day Jaipur — Amber Fort & Pink City Standard Journey",
+          "input": {
+            "startingLocation": "New Delhi",
+            "destinationName": "Jaipur — Amber Fort & Pink City",
+            "destinationSlug": "jaipur-amber-fort",
+            "startDate": "2026-12-12",
+            "endDate": "2026-12-14",
+            "travelers": 2,
+            "days": 3,
+            "preferences": [
+              "Historical",
+              "Food and Culture"
+            ],
+            "budgetCategory": "Standard"
+          },
+          "summary": "A curated 3-day standard itinerary from New Delhi to Jaipur — Amber Fort & Pink City for 2 travelers, focused on Historical, Food and Culture.",
+          "bestSeasonNote": "October to March",
+          "days": [
+            {
+              "day": 1,
+              "title": "Arrival in Jaipur — Amber Fort & Pink City & First Impressions",
+              "activities": [
+                {
+                  "id": "d1-1",
+                  "timeOfDay": "Morning",
+                  "title": "Arrival from New Delhi & Standard Check-in",
+                  "description": "Arrive in Jaipur — Amber Fort & Pink City, transfer to your standard stay, and freshen up for an unhurried afternoon."
+                },
+                {
+                  "id": "d1-2",
+                  "timeOfDay": "Afternoon",
+                  "title": "Visit Amber Fort & Sheesh Mahal",
+                  "description": "Begin exploring Jaipur — Amber Fort & Pink City with its signature highlight (Amber Fort & Sheesh Mahal) tailored for Historical, Food and Culture."
+                },
+                {
+                  "id": "d1-3",
+                  "timeOfDay": "Evening",
+                  "title": "Welcome Regional Dinner (Dal Baati Churma)",
+                  "description": "Evening orientation stroll and dinner featuring authentic Dal Baati Churma and Laal Maas."
+                }
+              ]
+            },
+            {
+              "day": 2,
+              "title": "Hawa Mahal & Local Experiences",
+              "activities": [
+                {
+                  "id": "d2-1",
+                  "timeOfDay": "Morning",
+                  "title": "Explore Hawa Mahal",
+                  "description": "Beat midday crowds with an early start at Hawa Mahal."
+                },
+                {
+                  "id": "d2-2",
+                  "timeOfDay": "Afternoon",
+                  "title": "Watch sunrise illuminate Amber Fort over Maota Lake",
+                  "description": "Focused historical, food and culture experience plus excursion toward Ajmer & Pushkar."
+                },
+                {
+                  "id": "d2-3",
+                  "timeOfDay": "Evening",
+                  "title": "Sunset Viewpoint & Ghewar",
+                  "description": "Unwind at sunset and sample evening regional specialties in town."
+                }
+              ]
+            },
+            {
+              "day": 3,
+              "title": "Artisan Markets & Return to New Delhi",
+              "activities": [
+                {
+                  "id": "d3-1",
+                  "timeOfDay": "Morning",
+                  "title": "Morning Visit to Ajmer & Pushkar",
+                  "description": "Catch tranquil early-morning light around Ajmer & Pushkar before checking out."
+                },
+                {
+                  "id": "d3-2",
+                  "timeOfDay": "Afternoon",
+                  "title": "Local Crafts Shopping & Farewell Lunch",
+                  "description": "Pick up regional handicrafts and enjoy a farewell meal (Laal Maas)."
+                },
+                {
+                  "id": "d3-3",
+                  "timeOfDay": "Evening",
+                  "title": "Departure Back to New Delhi",
+                  "description": "Transfer to station or airport for your onward journey home to New Delhi."
+                }
+              ]
+            }
+          ],
+          "generatedBy": "planner",
+          "createdAt": "2026-11-14T13:24:46.713Z"
+        }
+      ],
+      "bookingHistory": [
+        {
+          "id": "demo-bk-101",
+          "destinationName": "Udaipur — City of Lakes",
+          "stateName": "Rajasthan",
+          "checkIn": "2026-11-20",
+          "checkOut": "2026-11-23",
+          "travelers": 2,
+          "budgetTier": "Standard",
+          "estimatedTotal": 27400,
+          "status": "Demo Itinerary Confirmed",
+          "createdAt": "2026-10-08T14:30:00.000Z"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "id": "contact-1794663048890",
+      "name": "Priya Nair",
+      "email": "priya@example.com",
+      "subject": "Kerala Backwaters Query",
+      "message": "Can you suggest best houseboat timings in Alleppey for December?",
+      "createdAt": "2026-11-14T13:30:48.890Z"
+    }
+  ]
+}
